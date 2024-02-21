@@ -8,6 +8,16 @@ Remove this line or find an alternative video
 
 ## Name: Isabella Katz
 
+# Slide Number: 11,12
+
+## Description
+The binary code that should be on the scroll goes off of it
+
+## Possible Fix
+Put each line of binary code into a different textbox and reposition them so that they are all on the scroll
+
+## Name: Isabella Katz
+
 # Slide Number: [Enter The Slide Number Here]
 [Please report bugs in ascending order of slide numbers.]
 
