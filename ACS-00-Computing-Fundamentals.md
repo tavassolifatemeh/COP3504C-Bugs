@@ -1,3 +1,13 @@
+# Slide Number: 3
+
+## Description
+The youtube link for “This is Water”, David Foster Wallace, Little, Brown & Co. (2005-2009)" does not work because the video was taken down
+
+## Possible Fix
+Remove this line or find an alternative video
+
+## Name: Isabella Katz
+
 # Slide Number: [Enter The Slide Number Here]
 [Please report bugs in ascending order of slide numbers.]
 
