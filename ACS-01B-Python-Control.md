@@ -7,3 +7,14 @@ The print statement on line 17 is not printing the right variable. There is no v
   print("You entered", data)
 
 ## Name: Brandon Jacobson
+
+# Slide Number: 10
+
+
+## Description
+else statement in the Short Circuit evaluation is missing a colon
+
+## Possible Fix
+add a colon, else:
+
+## Name: Brandon Jacobson
