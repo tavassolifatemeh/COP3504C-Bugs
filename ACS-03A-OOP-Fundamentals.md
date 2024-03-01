@@ -18,3 +18,13 @@ To actually create the object and assign it to a variable named Ashley, I would 
 be changed to Ashley = Player().
 
 Wesley Chen
+
+Slide #15
+
+On the code snippet for monster.py, the user attempts to access the enemy character's level using 
+enemy.level) -- which does not compile.
+
+To correctly access the enemy character's level, I would suggest removing the ) at the end in order
+for the code to compile and access the enemy's level. 
+
+Wesley Chen
