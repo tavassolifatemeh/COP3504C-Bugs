@@ -8,3 +8,13 @@ in Monster to self._name to be consistent with the privacy levels of the other v
 user could change the code in proggy.py to pika.name = "Chuchu" without changing the Monster class code.
 
 Wesley Chen
+
+Slide #3
+
+On the code snippet for proggy.py, the user attempts to create a new Player object named Ashley using
+Ashley Player().
+
+To actually create the object and assign it to a variable named Ashley, I would suggest that the code
+be changed to Ashley = Player().
+
+Wesley Chen
