@@ -1,3 +1,14 @@
+# Page Number: 12
+
+## Description
+States that information on creating a Makefile can be found in Canvas (Pages -> Makefiles), but this page does not exist.
+
+## Possible Fix
+Add a Makefile page to Canvas or omit this line from the pdf
+
+## Name: Patrick Byrd
+
+
 # Page Number: 14
 
 ## Description
