@@ -1,3 +1,14 @@
+# Page Number: 2
+
+## Description
+Under the "Reading binary data section" it says "Refer back to the presentation BinaryFileIO ... for how to read and write binary data." In Canvas, there is no BinaryFileIO presentation.
+
+## Possible Fix
+Change the text to read "Refer back to slide 6 of the presentation IO-Streams"
+
+## Name: Patrick Byrd
+
+
 # Page Number: 12
 
 ## Description
