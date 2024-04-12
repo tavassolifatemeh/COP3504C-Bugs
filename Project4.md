@@ -18,3 +18,14 @@ The link under "Using Documentation" is broken, directing to the address "https:
 Update the link address to "https://www.sfml-dev.org/tutorials/2.5/window-window.php#the-white-square-problem", which does work.
 
 ## Name: Patrick Byrd
+
+
+# Page Number: 6
+
+## Description
+In the file structure, Button.h is misspelled as Buton.h. 
+
+## Possible Fix
+Correct the spelling in the image to "Button.h".
+
+## Name: Brandon Jacobson
