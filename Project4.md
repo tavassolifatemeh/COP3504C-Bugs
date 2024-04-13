@@ -1,3 +1,13 @@
+# Page Number: 3
+
+## Description
+The toolbox class constructor "private ToolBox()" has the B capitalized while in all other uses of toolbox, the B is lowercase. This can be confusing when reading through the instructions and cause errors. 
+
+## Possible Fix
+Correct the capitalization of the Toolbox constructor to "private Toolbox()".
+
+## Name: Brandon Jacobson
+
 # Page Number: 6
 
 ## Description
