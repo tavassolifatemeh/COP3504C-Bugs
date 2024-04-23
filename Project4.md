@@ -8,6 +8,16 @@ Correct the capitalization of the Toolbox constructor to "private Toolbox()".
 
 ## Name: Brandon Jacobson
 
+# Page Number: 5
+
+## Description
+"GameState(sf::Vector2i _dimensions = Vector2i(25, 16), int _numberOfMines = 50)" in the GameState class requires "sf::" before "Vector2i(25, 16), otherwise it will be considered undeclared.
+
+## Possible Fix
+Add "sf::" before "Vector2i(25,16)" to make it "GameState(sf::Vector2i _dimensions = sf::Vector2i(25, 16), int _numberOfMines = 50)"
+
+## Name: Lokaghna Velugu Boreddi
+
 # Page Number: 6
 
 ## Description
