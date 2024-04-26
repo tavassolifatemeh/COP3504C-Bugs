@@ -1,3 +1,13 @@
+# Page Number: 4
+
+## Description
+In the requirements for the tile class, the method "public Tile(sf::Vector2f position)" passes through "position", but in the description, it says it uses "_position". This can be confusing.
+
+## Possible Fix
+Correct the method to, "public Tile(sf::Vector2f _position)" to include the underscore.
+
+## Name: Grace Cavarretta
+
 # Page Number: 3
 
 ## Description
