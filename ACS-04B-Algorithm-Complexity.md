@@ -1,3 +1,12 @@
+# Slide Number: 1
+## Description
+The pseudocode for the is_prime function is written as for divisor in range(2 n):, which is missing a comma, making the syntax incorrect.
+
+## Possible Fix
+Correct the syntax error in the pseudocode by adding a comma between the parameters in the range function: for divisor in range(2, n):.
+
+## Name: Michelle Garcia
+
 # Slide Number: 16
 
 ## Description
