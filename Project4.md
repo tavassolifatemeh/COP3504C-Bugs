@@ -59,3 +59,13 @@ In the file structure, Button.h is misspelled as Buton.h.
 Correct the spelling in the image to "Button.h".
 
 ## Name: Brandon Jacobson
+
+# Page Number: 3
+
+## Description
+There are three boards and three buttons but only two tests are mentioned.
+
+## Possible Fix
+Remove the board and image for test three in files if only two tests are needed. Or mention the third test and button on the document.
+
+## Name: Jennifer Senra Bruzon
