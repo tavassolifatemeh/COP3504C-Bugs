@@ -1,3 +1,13 @@
+# Page Number: 1
+
+## Description 
+There is a library inclusion statement missing in the ConsoleGfx.h file that is provided.
+
+## Possible Fix:
+Add #include cstdint in the top of the files to prevent compiler error
+
+## Name: Michelle Garcia
+
 # Page Number: 1 and 3
 
 ## Description
