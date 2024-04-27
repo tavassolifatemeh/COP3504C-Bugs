@@ -69,3 +69,33 @@ In the file structure, Button.h is misspelled as Buton.h.
 Correct the spelling in the image to "Button.h".
 
 ## Name: Brandon Jacobson
+
+# Page Number: 4
+
+## Description
+In the button class the word "rendering" is misspelled as "rending". To rend is to tear apart or otherwise destroy. This may be confusing for future students. 
+
+## Possible Fix
+Correct the spelling to "rendering themselves".
+
+## Name: Kylen Williams
+
+# Page Number: 1
+
+## Description
+Under the heading "Mine Counter", the second sentence uses the singular "mine" instead of "mines", which could cause confusion about what precisely should checked and counted for.
+
+## Possible Fix
+Correct the spelling to "mines".
+
+## Name: Kylen Williams
+
+# Page Number: 3
+
+## Description
+Under the "Requirements" tab, it is mentioned that  all methods must be private unless noted in the specifications, but then the toolbox class states that it should have "at least" these methods. What exactly this implies about what you can and cannot have in each class and method protoype is inclear.
+
+## Possible Fix
+Specify that only the toolbox class can have extra public methods.
+
+## Name: Kylen Williams
