@@ -29,3 +29,13 @@ In the submisson section of the document it says to submit under project 2. Whic
 Change to project 3 instead of 2.
 
 ## Name: Jose Reynaldo
+
+# Page Number: 12
+
+## Description
+The extra credit image does not match the expected image given on files. The image in the document is upright while the one in the file is upside down.
+
+## Possible Fix
+Either switch the image in the document or change it in the files given.
+
+## Name: Jennifer Senra Bruzon
